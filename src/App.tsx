@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className={'App'}>
-      <KakaoAdFit unit={'DAN-fVYT1aWQnMOribRe'} width={320} height={50} disabled={false} />
+      <KakaoAdFit unit={'DAN-O9sPoZmGoqjzS3vq'} width={320} height={100} disabled={false} />
     </div>
   );
 }
